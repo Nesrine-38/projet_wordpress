@@ -1,0 +1,133 @@
+/*=============================================
+=            Main Color            =
+=============================================*/
+.imp-num,
+.num-list li span,
+.read-btn,
+.dep-service h4:hover,
+.blu-title,
+.blog-box-content .meta-tag li i,
+.blog-box-content h4:hover,
+.testi-one .date,
+.service-two:hover a,
+.overlay-team .team-over-diss .team-socail li a:hover,
+.service-box-one:hover h3,
+.cheak-list-one li > i,
+.dep-one-tabs .nav-tabs .nav-item.show .nav-link,
+.dep-one-tabs .nav-tabs .nav-link.active,
+.hero-slide .slick-prev:hover::before,
+.hero-slide .slick-next:hover::before,
+.hero-slider__content .hero-slider__btn.active,
+.hero-slider__content .hero-slider__btn:hover,
+.slicknav_nav .slicknav_row:hover,
+.slicknav_nav a:hover,
+.navbar-light .navbar-nav .nav-item .dropdown .nav-link:hover,
+.up-title{
+    color: #1879bf;
+}
+
+
+/*=====  End of Main Color  ======*/
+
+.department-two .dep-one-tabs .nav-tabs .nav-item.show .nav-link,
+.department-two .dep-one-tabs .nav-tabs .nav-link.active{
+    color:#fff;
+}
+
+
+
+
+/*=============================================
+=            Main Color Background            =
+=============================================*/
+.timing-hours .emergency-case,
+.timing-hours .form-title,
+.department-two .dep-one-tabs .nav-tabs .nav-item.show .nav-link,
+.department-two .dep-one-tabs .nav-tabs .nav-link.active,
+.dot-title::before,
+.dep-service::before,
+.testi-slide-one .slick-dots li button:before,
+.overlay-team .left-team-content-bor::after,
+.overlay-team .right-team-content-bor::after,
+.overlay-team .left-team-content-bor::before,
+.overlay-team .right-team-content-bor::before,
+.team-content,
+.slider-for .slick-prev:hover, 
+.slider-for .slick-next:hover,
+.search_area,
+.datepicker.dropdown-menu table tr th.dow,
+.datepicker.dropdown-menu table tr td.active,
+.datepicker.dropdown-menu table tr td.active:focus,
+.datepicker.dropdown-menu table tr td.active.active:hover,
+.datepicker.dropdown-menu table tr td:active:focus,
+.datepicker.dropdown-menu table tr td.highlighted,
+.datepicker.dropdown-menu table tr th.active,
+.datepicker.dropdown-menu table tr th.active:focus,
+.datepicker.dropdown-menu table tr th.active.active:hover,
+.datepicker.dropdown-menu table tr th:active:focus,
+.datepicker.dropdown-menu table tr th.highlighted ,
+.datepicker.dropdown-menu table tr td.focused,
+.datepicker.dropdown-menu table tr td.selected,
+.datepicker.dropdown-menu table tr th.focused,
+.datepicker.dropdown-menu table tr th.selected,
+.center-main-title h2::after,
+.center-main-title::after,
+.left-main-title::after,
+.center-main-title h2::before,
+.center-main-title::before,
+.left-main-title::before,
+.default-btn{
+    background-color: #1879bf;
+}
+
+.bg-main{
+    background-image: linear-gradient(to top, #1775bc, #2aaee4);
+}
+/*=====  End of Main Color Background  ======*/
+
+
+
+
+/*=============================================
+=            Main Border Color            =
+=============================================*/
+
+.datepicker.dropdown-menu table tr td.active,
+.datepicker.dropdown-menu table tr td.active:focus,
+.datepicker.dropdown-menu table tr td.active.active:hover,
+.datepicker.dropdown-menu table tr td:active:focus,
+.datepicker.dropdown-menu table tr td.highlighted,
+.datepicker.dropdown-menu table tr th.active,
+.datepicker.dropdown-menu table tr th.active:focus,
+.datepicker.dropdown-menu table tr th.active.active:hover,
+.datepicker.dropdown-menu table tr th:active:focus,
+.datepicker.dropdown-menu table tr th.highlighted{
+    border-color: #1879bf;
+}
+
+.search-box-one input{
+    border: solid 2px #1879bf;
+}
+
+.dep-one-tabs .nav-tabs .nav-item.show .nav-link,
+.dep-one-tabs .nav-tabs .nav-link.active{
+    border-bottom: 2px solid #1879bf;
+}
+
+.testi-slide-one .slick-next:before{
+	border-right-color: #1879bf;
+}
+.testi-slide-one .slick-prev:before{
+	border-left-color: #1879bf;
+}
+.testi-slide-one .slick-dots li.slick-active button:before{
+    border: 1px solid #1879bf;
+}
+.blog-box-content .meta-tag{
+    border-bottom: 2px dashed #1879bf;
+}
+.testi-slide-two .testi-nav .slick-current .item img, .service-three .icon-img, .service-three::after, .service-three::before {
+    border: 3px solid #1879bf;
+}
+/*=====  End of Main Border Color  ======*/
+

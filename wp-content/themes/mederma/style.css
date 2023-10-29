@@ -1,0 +1,202 @@
+/*
+Theme Name: mederma
+Author: Weblizar
+Author URI: https://weblizar.com/
+Description: mederma theme for Doctors, Surgeons, health care centers, hospitals. Its responsive layout makes your website deliver a performance of the highest degree.
+Version: 1.1
+Tested up to: 6.2
+Requires PHP: 5.6
+Tags: custom-background, custom-logo, custom-menu, featured-images,  post-formats, threaded-comments, blog
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mederma
+Template: medicore
+
+This is the child theme for medicore theme, generated with Generate Child Theme plugin by catchthemes.
+
+*/
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*=============================================
+=            Main Color            =
+=============================================*/
+.footer-bg-two .f-links li a:hover,
+.footer-bg-two .f-links li a:focus,
+.service-two:hover a,
+.service-two:focus a,
+.color-theme,
+.blog-box-content .meta-tag li i,
+.blog-box-content h4:hover,
+.blog-box-content h4:focus,
+.testi-one .date,
+.overlay-team .team-over-diss .team-socail li a:hover,
+.overlay-team .team-over-diss .team-socail li a:focus,
+.service-box-one:hover h3,.service-box-one:focus h3,
+.cheak-list-one li > i,
+.dep-one-tabs .nav-tabs .nav-item.show .nav-link,
+.hero-slide .slick-prev:hover::before,.hero-slide .slick-prev:focus::before,
+.hero-slide .slick-next:hover::before,.hero-slide .slick-next:focus::before,
+.hero-slider__content .hero-slider__btn.active,
+.hero-slider__content .hero-slider__btn:hover,.hero-slider__content .hero-slider__btn:focus,
+.slicknav_nav .slicknav_row:hover,.slicknav_nav .slicknav_row:focus,
+.slicknav_nav a:hover,.slicknav_nav a:focus,
+.navbar-light .navbar-nav .nav-item .dropdown .nav-link:hover,.navbar-light .navbar-nav .nav-item .dropdown .nav-link:focus,
+.up-title,.menu-item-has-children .sub-menu a:hover,.menu-item-has-children .sub-menu a:focus, .menu-item-has-children .sub-menu a:focus, 
+.menu-item-has-children .sub-menu a.active, .page_item_has_children .children a:hover,.page_item_has_children .children a:hover, 
+.page_item_has_children .children a:focus, 
+.page_item_has_children .children a.active,
+.cat-listing ul li a:hover,.cat-listing ul li a:focus, .wp-block-archives li a:hover,.wp-block-archives li a:focus, 
+.cat-item a:hover,.cat-item a:focus, .side-box li a:hover, .side-box li a:focus{
+    color: #2ec8a6 !important;
+}
+/*=====  End of Main Color  ======*/
+
+
+/*=============================================
+=            Main Color Background            =
+=============================================*/
+.footer-bg-two .n-form button,
+.bg-green,
+.testi-slide-two .right-team-content-bor::before,
+.testi-slide-two .left-team-content-bor::before,
+.testi-slide-two .left-team-content-bor::after,
+.testi-slide-two .right-team-content-bor::after,
+.testi-slide-one .slick-dots li button:before,
+.overlay-team .left-team-content-bor::after,
+.overlay-team .right-team-content-bor::after,
+.overlay-team .left-team-content-bor::before,
+.overlay-team .right-team-content-bor::before,
+.team-content,
+.slider-for .slick-prev:hover, 
+.slider-for .slick-next:hover,
+.slider-for .slick-prev:focus, 
+.slider-for .slick-next:focus,
+.timing-hours .form-title,
+.search_area_two .btn-tour,
+.search_area_two.search_area .form-title,
+.timing-hours .emergency-case,
+.header-two  .navbar ,
+.header-two.header-fixed.stick,
+.department-two .nav-tabs .nav-link.active,
+.datepicker.dropdown-menu table tr th.dow,
+.datepicker.dropdown-menu table tr td.active,
+.datepicker.dropdown-menu table tr td.active:focus,
+.datepicker.dropdown-menu table tr td.active.active:hover,
+.datepicker.dropdown-menu table tr td.active.active:focus,
+.datepicker.dropdown-menu table tr td:active:focus,
+.datepicker.dropdown-menu table tr td.highlighted,
+.datepicker.dropdown-menu table tr th.active,
+.datepicker.dropdown-menu table tr th.active:focus,
+.datepicker.dropdown-menu table tr th.active.active:hover,
+.datepicker.dropdown-menu table tr th.active.active:focus,
+.datepicker.dropdown-menu table tr th:active:focus,
+.datepicker.dropdown-menu table tr th.highlighted ,
+.datepicker.dropdown-menu table tr td.focused,
+.datepicker.dropdown-menu table tr td.selected,
+.datepicker.dropdown-menu table tr th.focused,
+.datepicker.dropdown-menu table tr th.selected,
+.center-main-title h2::after,
+.center-main-title::after,
+.left-main-title::after,
+.center-main-title h2::before,
+.center-main-title::before,
+.left-main-title::before,
+.default-btn,#submit{
+    background-color: #2ec8a6;
+}
+
+.bg-main{
+    background-image: linear-gradient(to top, #1775bc, #2aaee4);
+}
+/*=====  End of Main Color Background  ======*/
+
+
+
+
+/*=============================================
+=            Main Border Color            =
+=============================================*/
+
+.datepicker.dropdown-menu table tr td.active,
+.datepicker.dropdown-menu table tr td.active:focus,
+.datepicker.dropdown-menu table tr td.active.active:hover,
+.datepicker.dropdown-menu table tr td.active.active:focus,
+.datepicker.dropdown-menu table tr td:active:focus,
+.datepicker.dropdown-menu table tr td.highlighted,
+.datepicker.dropdown-menu table tr th.active,
+.datepicker.dropdown-menu table tr th.active:focus,
+.datepicker.dropdown-menu table tr th.active.active:hover,
+.datepicker.dropdown-menu table tr th.active.active:focus,
+.datepicker.dropdown-menu table tr th:active:focus,
+.datepicker.dropdown-menu table tr th.highlighted{
+    border-color: #2ec8a6;
+}
+
+.search-box-one input{
+    border: solid 2px #2ec8a6;
+}
+
+.dep-one-tabs .nav-tabs .nav-item.show .nav-link,
+.dep-one-tabs .nav-tabs .nav-link.active{
+    border-bottom: 2px solid #2ec8a6;
+}
+
+.testi-slide-one .slick-next:before{
+	border-right-color: #2ec8a6;
+}
+.testi-slide-one .slick-prev:before{
+	border-left-color: #2ec8a6;
+}
+.testi-slide-one .slick-dots li.slick-active button:before,.page-numbers{
+    border: 1px solid #2ec8a6;
+}
+.blog-box-content .meta-tag{
+    border-bottom: 2px dashed #2ec8a6;
+}
+.testi-slide-two .testi-nav .slick-current .item img,
+.service-three .icon-img,
+.service-three::after,
+.service-three::before{	
+    border: 3px solid #2ec8a6;
+
+}
+.header-two .navbar-nav>li>a{
+	padding-left: 0 !important;
+	margin-right: 20px;
+	color: #fff !important;
+}
+.header-two .navbar-nav>li>a:hover,
+.header-two .navbar-nav>li>a:focus{
+	color: #000 !important;
+}
+.header-two .navbar-nav>li.current_page_item>a{
+	color: #000 !important;
+}
+.main-footer-shape{display: none;}
+.bg-main {
+    background-image: linear-gradient(to top, #2ec8a673, #2ec8a657);
+}
+.hero-slider__content .hero-slider__title,.hero-slider__content .hero-slider__text{
+	color: #000;
+}
+.hero-slider__content .hero-slider__btn {
+    border: 1px solid #000;
+    color: #000;
+}
+.hero-slider__content .hero-slider__btn.active{
+	background: #000000;
+    border-color: #000000;
+}
+.hero-slide .item {
+    height: 875px;
+}
+.footer-bg-two{
+    background-image: none;
+}
+.navbar-nav li.page_item{
+    margin-left: 0 !important;
+}
+/*=====  End of Main Border Color  ======*/
